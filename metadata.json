@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Chat Workspace",
+  "description": "A fully-featured advanced AI chatting application with multiple AI personalities, local SQLite history, message search, and Text-To-Speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
